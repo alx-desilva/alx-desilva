@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi! I'm a 17-year-old who likes CS and Engineering. <br><br>🚀Current Projects<br>- Machine Code to Minecraft Instruction Memory Converter<br>- Machine Code Compiler<br><br>🗓️ Work Experience<br>- Currently working for TheCoderSchool<br>- Classes at my old elementary school teaching coding
-
+Hi! I'm a 17-year-old who likes CS and Engineering. <br><br>🚀Current Projects<br>- Machine Code to Minecraft Instruction Memory Converter<br>- Machine Code Compiler<br><br>🗓️ Work Experience<br>- Currently working for TheCoderSchool<br>- Teaching CS at Full Circle Montisorri School
 # Fun Facts
 - Ive been coding since about 10 years old
 - Python was my first langauge
