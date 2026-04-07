@@ -2,7 +2,7 @@
 <!--  <img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/2395cdab-b2d0-466a-96ee-993684deb2f9" /> -->
 
 # 💫 About Me:
-Hi! I'm a 18-year-old who likes CS and Engineering. <br><br>🚀Current Projects<br>- Machine Code to Minecraft Instruction Memory Converter<br>- Machine Code Compiler<br><br>🗓️ Work Experience<br>- Currently working for TheCoderSchool<br>- Teaching CS at Full Circle Montisorri School
+Hi! I'm a 18-year-old who likes CS and Engineering. <br><br>🚀Current Projects<br>- Machine Code to Minecraft Instruction Memory Converter<br>- Machine Code Compiler<br><br>🗓️ Work Experience<br>- Currently working for TheCoderSchool<br>- Teaching Community Science CS tutoring at Full Circle Montisorri School
 # Fun Facts
 - Ive been coding since about 10 years old
 - Python was my first langauge
