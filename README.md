@@ -2,9 +2,9 @@
 <!--  <img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/2395cdab-b2d0-466a-96ee-993684deb2f9" /> -->
 
 # 💫 About Me:
-Hi! I'm an 18-year-old who likes CS and Engineering. <br><br>🚀Current Projects<br>- Minecraft Computer with custom Assembly Language <br><br>🗓️ Work Experience<br>- Currently working for TheCoderSchool<br>- Community Service CS tutoring at Full Circle Montisorri School <br>
-Public Projects:
-[RainWebsite](runoffcalc.com)
+Hi! I'm an 18-year-old who likes CS and Engineering. <br><br>🚀Current Projects<br>- Minecraft Computer with custom Assembly Language <br><br>🗓️ Work Experience<br>- Currently working for TheCoderSchool<br>- Community Service CS tutoring at Full Circle Montisorri School <br><br>
+📈Public Projects:<br>
+[Runoff Calculator Website](runoffcalc.com)
 
 # Fun Facts
 - I've been coding since I was 10
