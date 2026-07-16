@@ -4,7 +4,7 @@
 # 💫 About Me:
 I'm an 18-year-old who likes CS and Engineering. Currently Attending the Univeristy of Utah for Computer Engineering.<br><br>🚀Current Projects<br>- Nothing much, mostly messing around with web security <br><br>🗓️ Work Experience<br>- Previously Code Coach at TheCoderSchool<br>- Community Service CS tutoring at Full Circle Montisorri School <br><br>
 📈Previous Projects:<br>
-[Rain Runoff Calculator Website](https://runoffcalc.com)
+Rain Runoff Calculator Website <br>
 Minecraft Computer (Including Custom Assembly language and Machine Code)
 
 # Fun Facts
