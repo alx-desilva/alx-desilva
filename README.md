@@ -2,13 +2,13 @@
 <!--  <img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/2395cdab-b2d0-466a-96ee-993684deb2f9" /> -->
 
 # 💫 About Me:
-Hi! I'm an 18-year-old who likes CS and Engineering. <br><br>🚀Current Projects<br>- Minecraft Computer with custom Assembly Language <br><br>🗓️ Work Experience<br>- Currently working for TheCoderSchool<br>- Community Service CS tutoring at Full Circle Montisorri School <br><br>
-📈Public Projects:<br>
+I'm an 18-year-old who likes CS and Engineering. Currently Attending the Univeristy of Utah for Computer Engineering.<br><br>🚀Current Projects<br>- Nothing much, mostly messing around with web security <br><br>🗓️ Work Experience<br>- Previously Code Coach at TheCoderSchool<br>- Community Service CS tutoring at Full Circle Montisorri School <br><br>
+📈Previous Projects:<br>
 [Rain Runoff Calculator Website](https://runoffcalc.com)
+Minecraft Computer (Including Custom Assembly language and Machine Code)
 
 # Fun Facts
 - I've been coding since I was 10
-- I'm going to college for Computer Engineering
 - I love to play volleyball!
 
 
