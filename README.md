@@ -5,7 +5,7 @@
 I'm an 18-year-old studying Computer Engineering at the University of Utah, with a focus on CS and systems-level engineering.
 
 ### 🚀 Currently
-Exploring Django web security fundamentals in my free time, as well as building a tool for AI.
+Enjoying playing volleyball while trying to straighten out ideas for starting a business. Currently working on a Local LLM tool.
 
 ### 🗓️ Experience
 - Code Coach, TheCoderSchool
@@ -18,6 +18,7 @@ Exploring Django web security fundamentals in my free time, as well as building 
 ## Fun Facts
 - Coding since age 10
 - Volleyball player
+- Want to become a student entrepreneur
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_magicphoenix_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_a_desilva)
