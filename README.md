@@ -2,10 +2,10 @@
 
 # 💫 About Me
 
-I'm an 18-year-old studying Computer Engineering at the University of Utah, with a focus on CS and systems-level engineering.
+I'm an 18-year-old studying Computer Engineering and Entrepreneurship at the University of Utah, with a focus on CS and systems-level engineering.
 
 ### 🚀 Currently
-Enjoying playing volleyball while trying to straighten out ideas for starting a business. Currently working on a Local LLM tool.
+I enjoy playing volleyball while trying to sort out ideas for starting a business, and I'm currently working on a Local LLM tool.
 
 ### 🗓️ Experience
 - Code Coach, TheCoderSchool
