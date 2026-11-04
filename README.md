@@ -2,23 +2,18 @@
 
 # 💫 About Me
 
-I'm an 18-year-old studying Computer Engineering and Entrepreneurship at the University of Utah, with a focus on CS and systems-level engineering.
+I'm an 18-year-old studying Computer Engineering and Entrepreneurship at the University of Utah.
 
 ### 🚀 Currently
-I enjoy playing volleyball while trying to sort out ideas for starting a business, and I'm currently working on a Local LLM tool.
+I enjoy playing volleyball and hanging out with friends. I love designing, and have a dream of creating a clothing brand. 
 
 ### 🗓️ Experience
 - Code Coach, TheCoderSchool
 - CS Tutor (Community Service), Full Circle Montessori School
 
-### 📈 Projects
+### 📈 Past Projects
 - **Minecraft Computer** — a 16-bit computer built in Minecraft, including a custom assembly language and machine code toolchain
 - **Rain Runoff Calculator** — a web app for calculating rainfall runoff
-
-## Fun Facts
-- Coding since age 10
-- Volleyball player
-- Want to become a student entrepreneur
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_magicphoenix_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_a_desilva)
