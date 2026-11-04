@@ -1,17 +1,17 @@
 <!--  <img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/2395cdab-b2d0-466a-96ee-993684deb2f9" /> -->
 
-# 💫 About Me
+# About Me
 
 I'm an 18-year-old studying Computer Engineering and Entrepreneurship at the University of Utah.
 
-### 🚀 Currently
+### Currently
 I enjoy playing volleyball and hanging out with friends. I love designing, and have a dream of creating a clothing brand. 
 
-### 🗓️ Experience
+### Experience
 - Code Coach, TheCoderSchool
 - CS Tutor (Community Service), Full Circle Montessori School
 
-### 📈 Past Projects
+### Past Projects
 - **Minecraft Computer** — a 16-bit computer built in Minecraft, including a custom assembly language and machine code toolchain
 - **Rain Runoff Calculator** — a web app for calculating rainfall runoff
 
